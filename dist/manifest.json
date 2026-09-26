@@ -6,5 +6,11 @@
     "size": 48624053,
     "sha256": "cc24ab49ab7aa519f72143db643b3efd69eeec36a8c43b9cb26e010876cc973d"
   },
-  "ios": null
+  "ios": {
+    "tag": "v1.0.2+953-ios-unsigned",
+    "asset": "KidsPiggyBank-ios.ipa",
+    "url": "https://raw.githubusercontent.com/craftko/kids-piggy-bank-case-study/main/dist/ios/KidsPiggyBank-ios.ipa",
+    "size": 24014655,
+    "sha256": "a0cfbc7c5df35ede99fa924fd4fc3297de24fadfb4d1337a82d55b066d9f85ac"
+  }
 }
