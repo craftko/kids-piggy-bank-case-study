@@ -1,0 +1,10 @@
+{
+  "macos": {
+    "tag": "v1.0.2+952-macos",
+    "asset": "KidsPiggyBank-macos.dmg",
+    "url": "https://raw.githubusercontent.com/craftko/kids-piggy-bank-case-study/main/dist/macos/KidsPiggyBank-macos.dmg",
+    "size": 48624053,
+    "sha256": "cc24ab49ab7aa519f72143db643b3efd69eeec36a8c43b9cb26e010876cc973d"
+  },
+  "ios": null
+}
